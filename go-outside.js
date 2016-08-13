@@ -25,5 +25,4 @@ if (temperature < 0) {
 } else {
  console.log("Short sleeves are fine.");
 }
-
  console.log("Now you're ready to go outside!");
